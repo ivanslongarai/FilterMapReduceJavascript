@@ -1,1 +1,1 @@
-Understanding filter, map and reduce
+Understanding about filter, map and reduce
